@@ -26,10 +26,10 @@ else:
     1. Pares
     2. Impares
     """)
-opc = int(input("Opción: "))
-if opc == 1:
-    print(lista_pares(x, y))
-elif opc == 2:
-    print(lista_impares(x, y))
-else:
-    print("Opción no válida.")
+    opc = int(input("Opción: "))
+    if opc == 1:
+        print(lista_pares(x, y))
+    elif opc == 2:
+        print(lista_impares(x, y))
+    else:
+        print("Opción no válida.")
