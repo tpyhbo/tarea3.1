@@ -39,6 +39,7 @@ Este repositorio contiene una serie de ejercicios básicos en Python para practi
 17. Verificar si dos palabras son anagramas.
 18. Generar la serie de Fibonacci hasta un número dado.
 19. Determinar si un número es primo o no.
+20. Algoritmo Ordenamiento de Burbuja.
 
 ## Licencia
 
